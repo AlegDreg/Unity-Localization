@@ -1,0 +1,10 @@
+[
+  {
+    "LangName": "Russian",
+    "LangId": "RU"
+  },
+  {
+    "LangName": "English",
+    "LangId": "EN"
+  }
+]

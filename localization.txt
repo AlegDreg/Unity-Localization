@@ -1,0 +1,301 @@
+[
+  {
+    "Name": "Exit",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "ВЫХОД"
+      },
+      {
+        "LangId": "EN",
+        "Text": "EXIT"
+      }
+    ]
+  },
+  {
+    "Name": "Settings",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "НАСТРОЙКИ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "SETTINGS"
+      }
+    ]
+  },
+  {
+    "Name": "Back",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "НАЗАД"
+      },
+      {
+        "LangId": "EN",
+        "Text": "BACK"
+      }
+    ]
+  },
+  {
+    "Name": "obshie",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "ОБЩИЕ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "GENERAL"
+      }
+    ]
+  },
+  {
+    "Name": "lang",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Язык"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Language"
+      }
+    ]
+  },
+  {
+    "Name": "fullscreen",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Полноэкранный"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Fullscreen"
+      }
+    ]
+  },
+  {
+    "Name": "resolution",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Разрешение"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Resolution"
+      }
+    ]
+  },
+  {
+    "Name": "volume",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Звуки"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Volume"
+      }
+    ]
+  },
+  {
+    "Name": "music",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Музыка"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Music"
+      }
+    ]
+  },
+  {
+    "Name": "auth",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "АВТОРИЗАЦИЯ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "AUTHORIZATION"
+      }
+    ]
+  },
+  {
+    "Name": "loginbutton",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "ВХОД"
+      },
+      {
+        "LangId": "EN",
+        "Text": "LOGIN"
+      }
+    ]
+  },
+  {
+    "Name": "regbutton",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "РЕГИСТРАЦИЯ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "REGISTRATION"
+      }
+    ]
+  },
+  {
+    "Name": "reg",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "РЕГИСТРАЦИЯ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "REGISTRATION"
+      }
+    ]
+  },
+  {
+    "Name": "haveacc",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Есть аккаунт"
+      },
+      {
+        "LangId": "EN",
+        "Text": "I am registered"
+      }
+    ]
+  },
+  {
+    "Name": "autherror",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Ошибка подключения"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Connection error"
+      }
+    ]
+  },
+  {
+    "Name": "accblocked",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Аккаунт заблокирован"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Account blocked"
+      }
+    ]
+  },
+  {
+    "Name": "novalidauth",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Логин или пароль неподходят"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Username or password are not suitable"
+      }
+    ]
+  },
+  {
+    "Name": "play",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "ИГРАТЬ"
+      },
+      {
+        "LangId": "EN",
+        "Text": "PLAY"
+      }
+    ]
+  },
+  {
+    "Name": "alreadyexist",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Такое уже зарегистрировано"
+      },
+      {
+        "LangId": "EN",
+        "Text": "This has already been registered"
+      }
+    ]
+  },
+  {
+    "Name": "regerror",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "Ошибка регистрации"
+      },
+      {
+        "LangId": "EN",
+        "Text": "Registration error"
+      }
+    ]
+  },  
+  {
+    "Name": "wins",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "побед"
+      },
+      {
+        "LangId": "EN",
+        "Text": "wins"
+      }
+    ]
+  },
+  {
+    "Name": "score",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "очков"
+      },
+      {
+        "LangId": "EN",
+        "Text": "score"
+      }
+    ]
+  },
+  {
+    "Name": "loading",
+    "Info": [
+      {
+        "LangId": "RU",
+        "Text": "загрузка.."
+      },
+      {
+        "LangId": "EN",
+        "Text": "loading.."
+      }
+    ]
+  },
+]
